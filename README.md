@@ -10,13 +10,15 @@
 
 ## Installation
 1. Download Docker Desktop from Docker's official website: https://www.docker.com/products/docker-desktop/
-2. Install and run Docker Desktop
+2. Install and run Docker Desktop: **default Setup** skip the creation of an account
 
 ## Start AOAME
 - Make sure Docker Desktop is running
-- For Windows: Run the `start_local.bat` file
-- For MacOS/Linux: Run the `start_local.sh` file
-- Alternatively, open the project in the terminal and run the following command:
+- For Windows: Run the `start_local.bat` file.
+- For MacOS/Linux: Run the `start_local.sh` file.
+  - Make the script executable with `chmod +x start_local.sh` and run it. [Mac Support](https://support.apple.com/en-vn/guide/terminal/apdd100908f-06b3-4e63-8a87-32e71241bab4/mac) 
+- **Alternatively for any OS**
+  - Open the project in the terminal and run the following command:
 ```bash 
 docker-compose up
 ```

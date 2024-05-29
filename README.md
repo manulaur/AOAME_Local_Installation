@@ -10,7 +10,8 @@
 
 ## Installation
 1. Download Docker Desktop from Docker's official website: https://www.docker.com/products/docker-desktop/
-2. Install and run Docker Desktop: **default Setup** skip the creation of an account
+2. Install Docker Desktop: click **Default Setup**, and skip the creation of an account
+3. Run Docker Desktop
 
 ## Start AOAME
 - Make sure Docker Desktop is running

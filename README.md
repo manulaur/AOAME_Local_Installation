@@ -46,3 +46,4 @@ docker-compose down
 To contribute to the project, set up the development environment:
 - Run `setup_local.bat` (Windows) or `setup_local.sh` (MacOs/Linux) file
 - This script will pull all required repositories: WebApp, WebService, JenaFuseki into **aoame/** directory
+- For more information regarding the **Setup Development Environment**,refer to the README.md file in https://github.com/BPaaSModelling/AOAME

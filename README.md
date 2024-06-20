@@ -16,6 +16,7 @@
 ## Start AOAME
 - Make sure Docker Desktop is running
 - For Windows: Run the `start_local.bat` file (try to run as administrator if needed).
+  - If the App stops responding after launching close the terminal/console.
 - For MacOS/Linux: Run the `start_local.sh` file.
   - Open a terminal/console in the **Project Directory**
     - use `cd path-to-the-project` to navigate to the project directory if needed.

@@ -47,7 +47,7 @@ docker compose up --build
 #### Access the WebApp at: http://localhost:4200/
 #### Access Jena Fuseki Triple Store at: http://localhost:3030/
 
-### If any files (such as pictures, code, etc.) are modified, the affected service needs to be removed [Remove the Services](#remove-the-services) and rebuilt [Start AOAME](#start-aoame)!
+### If any files (such as pictures, code, etc.) are modified, the affected service needs to be removed [Remove the Services](#remove-the-services) and rebuilt [Start AOAME](#start-aoame)
 
 ## Upload Ontologies to Jena Fuseki
 1. Download triples from [Ontology4ModelingEnvironment repository](https://github.com/BPaaSModelling/Ontology4ModelingEnvironment).

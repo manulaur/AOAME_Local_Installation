@@ -53,6 +53,7 @@ docker compose up --build
 3. Click on "dataset" tab, then click on "upload files" tab
 4. Click on "Select files...", upload the downloaded triples
 
+### In case files are modified (pictures, code...), the modified service needs to be removed [Remove the Services](#remove-the-services) and rebuilt [Start AOAME](#start-aoame)!
 
 ## Stop the services
 - Open Docker Desktop, go to Containers tab (the top one), click on the stop button 🟦
@@ -62,6 +63,7 @@ docker compose up --build
 docker compose down
 ```
 ## Remove the services
+### This step is important in case of any changes are made!
 - Open Docker Desktop, go to Containers tab (the top one), click on the remove button
 - Go to Images tab (the top one), click on the remove button
 

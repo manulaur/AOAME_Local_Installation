@@ -15,7 +15,8 @@
 - [Building the WebApp](#building-the-webapp)
 - [Starting AOAME](#starting-aoame)
 - [Pushing the artifact to GitHub and AOAME](#pushing-the-artifact-to-github-and-aoame)
-
+### Video on AOAME's use:
+- Link to video on AOAME's use: https://shorturl.at/YdR2Y
 
 
 # Docker
